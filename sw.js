@@ -1,8 +1,8 @@
 const CACHE_NAME = 'my-cache';
 const urlsToCache = [
     '/',
-    '/index.html',
-    '/restaurant.html',
+    'index.html',
+    'restaurant.html',
     '/data/restaurants.json',
     '/css/styles.css',
     '/js/dbhelper.js',
@@ -18,8 +18,6 @@ const urlsToCache = [
     '/img/8.jpg',
     '/img/9.jpg',
     '/img/10.jpg',
-    '/js/sw_registration.js',
-    '/js/sw.js'
 
 ]
 
